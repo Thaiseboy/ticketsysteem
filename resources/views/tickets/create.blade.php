@@ -34,8 +34,8 @@
         </div>
 
         <!-- Knoppen voor opslaan en annuleren -->
-        <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded">Opslaan</button>
-        <a href="{{ route('tickets.index') }}" class="bg-gray-500 text-white px-4 py-2 rounded">Annuleren</a>
+        <button type="submit" class="bg-blue-700 text-white px-4 py-2 rounded">Opslaan</button>
+        <a href="{{ route('tickets.index') }}" class="bg-gray-700 text-white px-4 py-2 rounded">Annuleren</a>
     </form>
 </div>
 @endsection

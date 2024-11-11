@@ -38,8 +38,8 @@
 
         <!-- Knoppen voor opslaan en annuleren -->
         <div class="flex items-center">
-            <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded mr-2">Opslaan</button>
-            <a href="{{ route('tickets.index') }}" class="bg-gray-500 text-white px-4 py-2 rounded">Annuleren</a>
+            <button type="submit" class="bg-blue-700 text-white px-4 py-2 rounded mr-2">Opslaan</button>
+            <a href="{{ route('tickets.index') }}" class="bg-gray-700 text-white px-4 py-2 rounded">Annuleren</a>
         </div>
     </form>
 </div>

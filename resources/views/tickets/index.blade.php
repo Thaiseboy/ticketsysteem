@@ -7,7 +7,7 @@
     <h1 class="text-2xl font-bold mb-4">Tickets Overzicht</h1>
 
     <!-- Knop om een nieuw ticket aan te maken -->
-    <a href="{{ route('tickets.create') }}" class="bg-blue-500 text-white px-4 py-2 rounded mb-4 inline-block">Nieuw Ticket</a>
+    <a href="{{ route('tickets.create') }}" class="bg-blue-700 text-white px-4 py-2 rounded mb-4 inline-block">Nieuw Ticket</a>
 
     <!-- Succesbericht bij acties zoals aanmaken of bijwerken van een ticket -->
     @if(session('success'))

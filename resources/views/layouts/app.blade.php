@@ -14,10 +14,10 @@
     <nav class="bg-white shadow p-4">
         <div class="container mx-auto flex justify-between">
             <!-- Link naar de hoofdpagina (tickets overzicht) -->
-            <a href="{{ route('tickets.index') }}" class="text-xl font-semibold">Ticketsysteem</a>
+            <a href="{{ route('tickets.index') }}" class="text-xl font-semibold">Ticketsysteem GoGetIT - GoForIT</a>
             <div>
                 <!-- Knop om een nieuw ticket aan te maken -->
-                <a href="{{ route('tickets.create') }}" class="bg-blue-500 text-white px-4 py-2 rounded">Nieuw Ticket</a>
+                <a href="{{ route('tickets.create') }}" class="bg-blue-700 text-white px-4 py-2 rounded">Nieuw Ticket</a>
             </div>
         </div>
     </nav>
