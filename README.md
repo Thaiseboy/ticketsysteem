@@ -69,5 +69,4 @@ Neem gerust contact op als je vragen hebt of feedback wilt delen.
 - **Portfolio:** getdeveloper.nl
 - **E-mail:** get_sarun@hotmail.com
 
-✨ Bedankt!
 Bedankt voor het bekijken van dit project! 
