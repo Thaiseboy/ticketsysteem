@@ -24,7 +24,9 @@ Dit project is een eenvoudig ticketsysteem gebouwd met het Laravel PHP framework
 - Een detailweergave van 1 ticket.
 - Een aanmaakt/bewerkingspagina.
 **2. De input wordt gevalideerd op verplichte velden en veilligeheid.**
+
 **3. De datum/tijd van voltooiing wordt opgeslagen in de database, en voltooide tickets worden niet meer getoond in het overzicht.**
+
 **4. Foutafhendeling en logging zijn geimplementeerd voor onderhoudbaarheid.**
 
 
