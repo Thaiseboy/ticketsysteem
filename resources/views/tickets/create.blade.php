@@ -13,7 +13,7 @@
 
         <!-- Inputveld voor de titel van het ticket -->
         <div class="mb-3">
-            <label for="title" class="block font-medium">Titel</label>
+            <label for="title" class="block font-medium">Titel *</label>
             <input 
                 type="text" 
                 name="title" 
